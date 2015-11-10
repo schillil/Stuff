@@ -1,2 +1,2 @@
 # Stuff
-Information for the Health Data Science Proposal
+This is a collection of documents that I want to keep handy and share
